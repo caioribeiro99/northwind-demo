@@ -21,4 +21,4 @@ WITH
     )
     
 SELECT *
-from renomear
+FROM renomear
